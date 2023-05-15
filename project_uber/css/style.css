@@ -814,6 +814,8 @@ footer {
     font-size: 12px;
   }
   .subheader_btn {
+    display: block;
+    margin: 0 auto;
     width: 124px;
     height: 22px;
     font-size: 12px;
